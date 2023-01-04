@@ -17,6 +17,8 @@ https://docs.flutter.dev/get-started/install
 
 2. [counter](#counter)
 
+3. [Foodie Friends](#foodie_friends)
+
 
 
 ### startup_namer 
@@ -30,6 +32,11 @@ Technical stacks:
 ### counter
 Document:
 * https://docs.flutter.dev/get-started/install/macos#create-and-run-a-simple-flutter-app
+
+Techinical stacks:
+* 
+
+### foodie_friends
 
 Techinical stacks:
 * 
