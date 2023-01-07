@@ -1,42 +1,37 @@
 # Flutter Study
+1. [How to install](#how-to-install)
+2. [Trouble shootings](#trouble-shootings)
+3. [Example projects](#example-projects)
 
 ## Tutorials
-
-1. [How to install](#how-to-install)
 
 ### How to install
 https://docs.flutter.dev/get-started/install
 
 
-## Troubleshootings
+## Trouble shootings
 
 ## Example projects
 
-1. [startup_namer](#startup_namer)
-
+1. [startup_namer](#startup-namer)
 
 2. [counter](#counter)
 
-3. [Foodie Friends](#foodie_friends)
+3. [Foodie Friends](#foodie-friends)
+
+4. [cool name generator](#cool-name-generator)
 
 
 
-### startup_namer 
-Document: 
-* https://docs.flutter.dev/get-started/codelab
-* https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0
-* 
-Technical stacks: 
+### startup namer 
 * lazily generating list
+* random English word generation
 
 ### counter
-Document:
-* https://docs.flutter.dev/get-started/install/macos#create-and-run-a-simple-flutter-app
-
-Techinical stacks:
 * 
 
-### foodie_friends
-
-Techinical stacks:
+### foodie friends
 * 
+
+### cool name generator
+*
